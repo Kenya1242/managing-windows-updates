@@ -1,6 +1,5 @@
 <h1>Managing Windows Updates</h1>
-This tutorial outlines the process to check for, install, and manage Windows updates to keep
-systems secure, stable, and running efficiently.<br />
+Checked for, installed, and managed Windows updates to keep the system secure, stable, and running efficiently.<br />
 <h2>Environments and Technologies Used</h2>
 - Microsoft Azure
 - Windows Environment
@@ -10,4 +9,5 @@ systems secure, stable, and running efficiently.<br />
 <p>
 <img width="797" height="669" alt="image" src="https://github.com/user-attachments/assets/ca7b4cd9-2918-4b8b-916d-b26972831941" />
 </p>
+Checked for, installed, and managed Windows updates to keep the system secure, stable, and running efficiently.
 <br />
